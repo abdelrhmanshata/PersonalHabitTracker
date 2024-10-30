@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary brand color. -->
+    <color name="colorPrimary">@color/mainColor</color>
+    <color name="colorPrimaryVariant">@color/mainColor</color>
+    <color name="colorOnPrimary">@color/white</color>
+    <!-- Secondary brand color. -->
+    <color name="colorSecondary">@color/secondaryColor</color>
+    <color name="colorSecondaryVariant">@color/secondaryColor</color>
+    <color name="colorOnSecondary">@color/black</color>
+
+    <!--  color  -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="main_background">#ffffff</color>
+    <color name="mainColor">#f25b0d</color>
+    <color name="secondaryColor">#FF5C4D</color>
+
+    <color name="backgroundBottomNavigation">#fdfdfdfd</color>
+    <color name="backgroundNavigationItemChecked">#FF5C4D</color>
+    <color name="backgroundNavigationItemUnChecked">#fff</color>
+
+    <color name="colorRed">#FF0000</color>
+    <color name="colorBlue">#0000FF</color>
+    <color name="colorGreen">#4CAF50</color>
+    <color name="colorBrown">#BFA52A</color>
+    <color name="colorYellow">#FFFF00</color>
+
+    <color name="color1">#FF9636</color>
+    <color name="color2">#4B8378</color>
+    <color name="color3">#DAD870</color>
+    <color name="color4">#979594</color>
+
+    <color name="color01">#FF5C4D</color>
+    <color name="color02">#FF9636</color>
+    <color name="color03">#FFCD58</color>
+    <color name="color04">#DAD870</color>
+</resources>

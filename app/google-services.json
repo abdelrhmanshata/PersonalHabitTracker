@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "972943446411",
+    "firebase_url": "https://telegrambot-f5dfc-default-rtdb.firebaseio.com",
+    "project_id": "telegrambot-f5dfc",
+    "storage_bucket": "telegrambot-f5dfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972943446411:android:c74c8bdd2e6fe120651f8e",
+        "android_client_info": {
+          "package_name": "com.example.personalhabittracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqBczzJ8DJwVZrO24_dllbRYWltC9FeKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

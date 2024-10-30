@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Habits Management</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_account_register">Don\'t have an account? Register</string>
+    <string name="user_name">User Name</string>
+    <string name="register">Register</string>
+    <string name="i_have_account_login">I have account ? Login</string>
+
+    <string name="nameIsRequired">Username is required !</string>
+    <string name="emailIsRequired">Email is required !</string>
+    <string name="please_enter_valid_email">Please enter valid email !</string>
+    <string name="passwordIsRequired">Password is  required !</string>
+    <string name="minimumLength">Minimum Password Length 8</string>
+
+    <string name="AlreadyRegistered">This account is already registered</string>
+    <string name="noConnection">No Connection</string>
+    <string name="successRegistered">Successfully Registered</string>
+    <string name="successLogin">Successfully Login</string>
+    <string name="userNotFound">This user not found !!!</string>
+    <string name="passwordIncorrect">Password incorrect !!!</string>
+    <string name="save">Save</string>
+    <string name="update_successfully">Update Successfully</string>
+    <string name="checked_successfully">Checked Successfully</string>
+    <string name="un_checked_successfully">UnChecked Successfully</string>
+    <string name="logout">Logout</string>
+    <string name="add_habit">Add Habit</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="update_habit">Update Habit</string>
+    <string name="habit_title_is_required">Habit Title Is Required</string>
+    <string name="habit_description_is_required">Habit Description Is Required</string>
+    <string name="save_habit_successfully">Save Habit Successfully</string>
+    <string name="are_your_sure_delete">Are Your Sure Delete ?</string>
+    <string name="delete">Deleted Done</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+
+    <string name="color_1">Olive</string>
+    <string name="color_2">Green</string>
+    <string name="color_3">Orange</string>
+    <string name="color_4">Gray</string>
+    <string name="habits">Habits</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="history">History</string>
+    <string name="done">Done</string>
+    <string name="once">Once</string>
+    <string name="daily">Daily</string>
+    <string name="status">Status</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+</resources>
