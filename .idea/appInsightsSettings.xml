@@ -9,9 +9,9 @@
               <option name="connection">
                 <ConnectionSetting>
                   <option name="appId" value="com.example.personalhabittracker" />
-                  <option name="mobileSdkAppId" value="1:587745555379:android:6bf39e008af9bb274c51c6" />
-                  <option name="projectId" value="habits-management" />
-                  <option name="projectNumber" value="587745555379" />
+                  <option name="mobileSdkAppId" value="1:972943446411:android:c74c8bdd2e6fe120651f8e" />
+                  <option name="projectId" value="telegrambot-f5dfc" />
+                  <option name="projectNumber" value="972943446411" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
